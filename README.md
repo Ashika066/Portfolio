@@ -2,10 +2,6 @@
 
 This is my personal portfolio built using modern web technologies. It showcases my featured projects, technical skills, and gives an overview of my journey.
 
-## 🚀 Live Site
-
-🔗 [https://your-portfolio-url.vercel.app](https://your-portfolio-url.vercel.app)
-
 ## 🌟 Features
 
 - ✨ Interactive Project Cards with Smooth Animations
